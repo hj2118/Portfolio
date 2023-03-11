@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Nanum+Gothic+Coding&family=Noto+Sans+KR&display=swap');
+
+* {
+  box-sizing: border-box;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 24px;
+  background-color: #7B8C8B;  // CALM OCEAN
+}
+
+body, html {
+  margin: 0px;
+  padding: 0px;
+}
+
+.navMenu {
+  display: flex;
+  justify-content: center;
+}
+
+.navMenu a:visited, a {
+  font-family: 'Nanum Gothic Coding', monospace;
+  color: black;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.navMenu a:hover {
+  font-weight: bold;
+}
