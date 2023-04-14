@@ -2,7 +2,8 @@
 
 * {
   box-sizing: border-box;
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: 'Noto Sans Mono', monospace;
+  /* font-family: 'Noto Sans KR', sans-serif; */
   /* font-size: 24px; */
   font-size: 1.3rem;
   background-color: #7B8C8B;  // CALM OCEAN
